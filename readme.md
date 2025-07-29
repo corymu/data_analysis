@@ -9,7 +9,7 @@ It combines data cleaning, EDA, and Machine Learning to generate actionable insi
 -   Generate insights and recommendations for multiple business roles
 
 ## 📈 Key Insights
-![Churn Correlation Matrix](images/Churn_Correlation_Matrix.png)
+<img src="images/Churn_Correlation_Matrix.png" alt="Churn Correlation Matrix" width="600"/>
 -   Month-to-Months customers are 3 times more likely to churn than long term ones
 -   Customers without support services (like tech and security) are more likely to churn
 - Churn is highest within the first year of service
