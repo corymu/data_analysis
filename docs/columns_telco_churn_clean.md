@@ -1,5 +1,5 @@
 ## Columns in the Raw File
-![Telco Customers](data/telco_churn_clean.csv)
+![Telco Customers](/data/telco_churn_clean.csv)
 
 
 'SeniorCitizen'
