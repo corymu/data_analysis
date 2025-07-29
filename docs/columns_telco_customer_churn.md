@@ -1,6 +1,7 @@
 ## Columns in the Raw File
 ![Telco Customers](/data/telco_customer_churn.csv)
 
+
 'customerID',
 'gender'
 'SeniorCitizen'
